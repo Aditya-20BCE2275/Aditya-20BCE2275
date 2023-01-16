@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aditya-20BCE2275
 - 👀 I’m interested in Coding as a whole but not interested in Covid
-- 🌱 I’m currently learning DSA, tried Web Dev (HTML CSS) tbh
+- 🌱 I’m currently learning DSA, tried Web Dev (HTML CSS JS NODEJS EXPRESS)
 - 💞️ I’m looking to find a mentor if anyones into it
 - 📫 How to reach me https://www.instagram.com/the_undefined567/
 
